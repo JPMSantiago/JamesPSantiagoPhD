@@ -2,12 +2,10 @@ name: "James' Site"
 navbar:
   title: "James' Site"
   left:
-    - text: "CV"
-      href: Links.html
     - text: "Research"
       href: index.html
     - text: "Publications"
       href: Journal.html
-    - text: "Protocols"
+    - text: "CV"
       href: Links.html
 output_dir: "docs"

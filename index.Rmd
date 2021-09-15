@@ -19,7 +19,8 @@ output: html_document
 
 # **Welcome to the Plant Reproductive Physiology Lab!** 
 
-# James P. Santiago, PhD
+
+ -James P. Santiago, PhD
 
 <div class="col-sm-5">
 ![](images/Model3.png)
