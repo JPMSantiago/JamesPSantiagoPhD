@@ -28,7 +28,7 @@ output: html_document
 3) To identify key players involved in anther thermotolerance using single-cell RNA-sequencing
 
 
-<div class="col-sm-9">
+<div class="col-sm-8">
 ![](images/Banner.png)
 
 
