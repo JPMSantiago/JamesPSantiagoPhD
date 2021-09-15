@@ -3,7 +3,7 @@ title: "CV"
 output: html_document
 ---
 
-# James Patrick Santiago, PhD
+# James Patrick Santiago, Ph.D.
 
 ### Education
 Ph.D. Molecular Plant Science (2017) - Washington State University <br>
