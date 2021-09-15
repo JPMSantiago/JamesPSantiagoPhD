@@ -1,19 +1,123 @@
 ---
-title: "Resources"
+title: "CV"
 output: html_document
 ---
 
-### R and R-Studio
+# James Patrick Santiago, PhD
 
-[R](http://www.r-project.org) is a free open-source programming language that can be used for statistical analysis, data-simulation, graphing, and lots of other stuff. Another free program is [R-studio](http://www.rstudio.com), that provides a nice graphic interface for R. Download R first, then download R-studio. Both can run on PCs, Macs or Linux. Students will be learning R in the stats labs using the lab manual []().
+### Education
+Ph.D. Molecular Plant Science (2017) - Washington State University <br>
+M.S. Horticulture (2011) - University of Maine <br>
+B.S. Agriculture (2008) - University of the Philippines at Los Baños  
 
-### Additional R resources
+<br>
 
-1. Google is great, Google your problem
-2. [Stackoverflow](https://stackoverflow.com) is great, google will often take you there because someone has already asked your question, and someone else has answered, usually many people have answered your question many ways.
-3. Danielle Navarro wrote a [free Psych Stats textbook using R](https://compcogscisydney.org/learning-statistics-with-r/), it's worth checking out (some of our textbook are based on Danielle's)
-4. I am currently writing another stats textbook (incorporating some of the above). You can read it while it's being made right here [https://crumplab.github.io/statistics/](https://crumplab.github.io/statistics/), also check out the lab manual for more specific things about doing various stats in R (also in draft right now) [https://crumplab.github.io/statisticsLab/](https://crumplab.github.io/statisticsLab/)
-5. Daniell Navarro recently made this website for introducing R, it's great, check it out (also made using this R markdown process): [http://compcogscisydney.org/psyr/](http://compcogscisydney.org/psyr/)
-6. Check out my slightly older programming book that also introduces R [https://crumplab.github.io/programmingforpsych/](https://crumplab.github.io/programmingforpsych/)
-7. This is the definitive guide for all things R Markdown (you will find this very useful as you get better at this skill): [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
+### RESEARCH IMPLEMENTATION
+Blueberry Fact Sheet No. 223 (2013) The University of Maine Cooperative Extension: Maine Wild Blueberries. UMaine Extension No. 2093 (https://extension.umaine.edu/blueberries/factsheets/production/interpreting-your-leaf-analysis-results/)
+
+<br>
+
+### Grants and Fellowships
+•	Grant: MSU-PRI competitive grant (Approved, $88,360; Michigan State University) – Single cell transcriptome and proteome dynamics under heat stress (2021-2022; Renewable up to 3 years) <br>
+•	Postdoctoral Teaching Fellowship – Spring 2021 (BMB401: Comprehensive Biochemistry; Michigan State University) <br>
+•	Grant: USDA-NIFA-AFRI Dissecting the role of leaf assimilate export in anther ROS balance and its effect on male fertility of Phaseolus vulgaris during heat stress (2020; Wrote the proposal; Co-PI; Declined) <br>
+•	Grant: USDA-NIFA-AFRI Dissecting the role of leaf assimilate export in anther ROS balance and its effect on male fertility of Phaseolus vulgaris during heat stress (2019; Wrote the proposal; Project Personnel; Declined) <br>
+•	Global Plant Science Initiative Fellowship ($10,000; Washington State University) <br>
+•	Travel Grant: University of Maine Graduate Student Government Travel Grant (Approved, $500; University of Maine) <br>
+•	Grant: Evaluation of the effects gypsum (CaSO4) on wild blueberry fruit calcium concentration (Approved, $1000; Maine Wild Blueberry Commission)
+
+<br>
+
+### Awards
+•	Best Poster Award – Western Section Meeting of American Society of Plant Biologists <br>
+•	Janet Engle Cormier Soil Science Scholarship (University of Maine) <br>
+•	Miroslaw M. Czapowskyj Scholarship (University of Maine) <br>
+•	Award of Excellence – Northeastern Region American Society for Horticultural Science Graduate Student (NEASHS) Graduate Student Paper Presentation
+
+<br>
+
+### Undergraduate Mentoring
+•	Caleb Fisher (Michigan State University; August 2021-Present) <br>
+•	Madeline Bresson (Michigan State University; Spring – Summer 2019) <br>
+o	Won 1st place at the Michigan State University undergraduate research poster presentation competition. <br>
+o	Current position: research technician at Baylor College of Medicine, Houston, TX <br>
+•	Samantha Vivia Thé (Washington State University; Summer 2016) <br>
+o	Current position: Plant Biology PhD student at Washington State University <br>
+•	Jodie Kaya (WSU; Fall 2016) <br>
+o	Current position: Research Specialist at University of Idaho <br>
+•	Dolores Covarrubias (WSU; Summer 2015) <br>
+o	Current position: Genomics Specialist at Fred Hutchinson Cancer Research Center, Seattle, WA <br>
+•	Frances Sewell (University of Maine) <br>
+o	Current position: Horticulturist at US Forest Services <br> 
+•	Russell Estes (University of Maine) <br>
+o	Current position: Manager, Shaker Hill Outdoors, Poland Spring, ME <br>
+•	Kalie Hess (University of Maine) <br>
+o	Current position: Associate Director, Partnership for Children’s Oral Health, Augusta, ME <br>
+•	Taylor Anderson (University of Maine) <br>
+o	Current position: Unknown <br>
+
+<br>
+
+### Courses taught/Assisted
+BMB401 – Comprehensive Biochemistry (Michigan State) <br>
+o	Postdoctoral Teaching Fellowship <br>
+o	Supervisors: Drs. Timothy Zacharewski, Jon Kaguni, Michael Feig <br> 
+BIOLOGY102 Laboratory – Introduction to Biology for Non-Biology Majors (Wash. State) <br>
+o	Fall semester 2016 (Teaching Assistant; Supervisor: Dr. Paul Verrell) <br>
+o	Spring semester 2017 (Head Teaching Assistant; Supervisor: Dr. Lisa Carloye) <br>
+BIOLOGY101 – Assisted the lecturer with grades and other assigned duties (Wash. State) <br>
+o	Fall 2017 (Supervisor: Dr. Kevin Turner) <br>
+BIOLOGY333 – Assisted the lecturer with grading student work and exam proctoring (Wash. State) <br>
+o	Fall 2017 (Supervisor: Dr. Kathy Beerman) <br>
+
+<br>
+
+### Professinal Internships
+American Society of Plant Biologists (2014-present)
+
+<br>
+
+### Invited Presentations
+2018	Institute of Crop Sciences Seminar Series <br>
+2011	Maine Association of Professional Soil Scientists Annual Meeting <br>
+
+<br>
+
+### Oral Presentations
+2015	Washington State University-University of Idaho Center for Reproductive Biology Retreat <br>
+2015	WSU Molecular Plant Sciences – Plant Science Retreat <br>
+2011	ISAEMP 2011: Fifth International Symposium on Acclimatization and Establishment of Micropropagated Plants <br>
+2011	Northeast Region American Society for Horticultural Sciences Meeting <br>
+2010 	North American Blueberry Research and Extension Workers Conference <br>
+2010	North American Blueberry Research and Extension Workers Conference <br>
+2010	Northeast Region American Society for Horticultural Sciences Meeting <br>
+
+<br>
+
+### Presentations at Agricultural Extension Meetings
+2010	University of Maine - Blueberry Hill Farm field day <br>
+2010	Spring Blueberry Growers’ Meeting <br>
+2009	Wild Blueberry Researchers and Extension Workers Meeting <br>
+
+<br>
+
+### Outreach/Service Activities
+•	MSU-DOE Plant Research Lab – Departmental Postdoc Representative (Aug. 2020-Aug. 2021) <br>
+•	Fascination of Plants Day 2019 volunteer <br>
+•	Molecular Plant Sciences – Plant Science Day 2017 volunteer <br>
+•	Molecular Plant Sciences – Plant Science Day 2016 volunteer <br>
+•	Molecular Plant Sciences Graduate Student Association (MPS-GSO) <br>
+o	Secretary 2015-2016 <br>
+o	Secretary 2014-2015 <br>
+•	Journal ad hoc reviewer: <br>
+o	Plant, Cell & Environment <br>
+o	Plant Direct  <br>
+o	PeerJ <br>
+o	Grana <br>
+o	MDPI: International Journal of Molecular Sciences <br>
+o	MDPI: Genes <br>
+o	MDPI: Agronomy <br>
+o	MDPI: Horticulturae <br>
+
+
 

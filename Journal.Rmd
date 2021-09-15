@@ -1,5 +1,5 @@
 ---
-title: "Journal"
+title: "Publications"
 output:
   html_document:
     toc: true
@@ -14,115 +14,19 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-IMPORTANT: You can delete everything in here and start fresh. You might want to start by not deleting anything above this line until you know what that stuff is doing.
+1.	Welker S, Pierre M, Santiago JP, Dutt M, Vincent C, Levy A (2021) Phloem transport limitation in Huanglongbing affected sweet orange is dependent on phloem-limited bacteria and callose. bioRxiv, doi: https://doi.org/10.1101/2021.07.07.451171
+Recommended for publication with minor revisions in Tree Physiology
+2.	Santiago JP, Soltani A, Bresson MB, Preiser AL, Lowry DB, Sharkey TD (2021) Contrasting anther glucose 6-phosphate dehydrogenase activities between two common bean (Phaseolus vulgaris) varieties suggest an important role in reproductive heat tolerance. Plant, Cell & Environment, 44: 2185-2199
+3.	Soltani A, Walter KA, Wiersma AT, Santiago JP, Quigley M, Chitwood D, Porch TG, Miklas P, McClean PE, Osorno JM, Lowry DB. (2021) Reduced seed dormancy in common bean is associated with an insertion in a pectin acetylesterase gene. BMC Plant Biology, 21: 1-17
+4.	Santiago JP, Ward JM, and Sharkey TD (2020) Phaseolus vulgaris SUT1.1 is a high affinity sucrose-proton co-transporter. Plant Direct 4: e00260
+5.	Santiago JP and Sharkey TD (2019) Pollen development at high temperature and role of carbon and nitrogen metabolites. Plant, Cell & Environment 42: 2759-2775
+6.	Santiago JP and Tegeder M (2017) Implications of nitrogen phloem loading for carbon metabolism and transport during Arabidopsis development. Journal of Integrative Plant Biology 59: 409-421 
+7.	Santiago JP and Tegeder M (2016) Connecting source with sink: The role of Arabidopsis AAP8 in phloem loading of amino acids. Plant Physiology 171: 508-521 
+8.	Santiago JP, Halteman W, and Smagula JM (2014) Determining optimum macro- and micronutrient leaf concentrations for lowbush blueberry (Vaccinium angustifoliuim Ait.) using the boundary line approach and quantile regression. Acta Horticulturae 1017: 505-514 
+9.	Santiago JP, Dail DB, and Smagula JM (2014) Soil texture and lowbush blueberry (Vaccinium angustifolium Ait.) leaf nutrient concentration influences response to gypsum application. Acta Horticulturae 1017: 515-524
+10.	Santiago JP and Smagula JM (2013) Effects of nitrogen form and ratio on in vitro shoot multiplication and growth of lowbush blueberry (Vaccinium angustifolium Ait.). Acta Horticulturae 988: 129-135
+11.	Santiago JP and Smagula JM (2012) Gypsum rate evaluation for wild blueberry (Vaccinium angustifolium Ait.) soils. International Journal of Fruit Science 12:23-34
+12.	Santiago JP and Smagula JM (2012) Comparison of split or single application of gypsum for wild lowbush blueberry (Vaccinium angustifolium Ait.). International Journal of Fruit Science 12: 35-47
 
 
-This is an .Rmd file. It is plain text with special features. Any time you write just like this, it will be compiled to normal text in the website. If you put a \# in front of your text, it will create a top level-header.
 
-# My first post
-
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
-
-Notice that whatever you define as a top level header, automatically gets put into the table of contents bar on the left. 
-
-## Second level header
-
-You can add more headers by adding more hashtags. These won't be put into the table of contents
-
-### third level header
-
-Here's an even lower level header
-
-# My second post (note the order)
-
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
-
-I'm writing this tutorial going from the top down. And, this is how it will be printed. So, notice the second post is second in the list. If you want your most recent post to be at the top, then make a new post starting at the top. If you want the oldest first, do, then keep adding to the bottom
-
-# Adding R stuff
-
-So far this is just a blog where you can write in plain text and serve your writing to a webpage. One of the main purposes of this lab journal is to record your progress learning R. The reason I am asking you to use this process is because you can both make a website, and a lab journal, and learn R all in R-studio. This makes everything really convenient and in the sam place. 
-
-So, let's say you are learning how to make a histogram in R. For example, maybe you want to sample 100 numbers from a normal distribution with mean = 0, and standard deviation =1, and then you want to plot a histogram. You can do this right here by using an r code block, like this:
-
-```{r}
-samples <- rnorm(100, mean=0, sd=1)
-hist(samples)
-```
-
-When you knit this R Markdown document, you will see that the histogram is printed to the page, along with the R code. This document can be set up to hide the R code in the webpage, just delete the comment (hashtag), from the cold folding option in the yaml header up top. For purposes of letting yourself see the code, and me see the code, best to keep it the way that it is. You learn all of these things and more can be customized in each R code block.
-
-# The big idea
-
-Use this lab journal to record what you do in R. This way I will be able to see what you are doing and help you along the way. You will also be creating a repository of all the things you do. You can make posts about everything. Learning specific things in R (project unrelated), and doing things for the project that we will discuss at the beginning of the Fall semester. You can get started now by fiddling around with googling things, and trying stuff out in R. I've placed some helpful starting links in the links page on this website
-
-# What can you do right now by yourself?
-
-It's hard to learn programming when you don't have specific problems that you are trying to solve. Everything just seems abstract.
-
-I wrote an [introductory programming book that introduces R](https://crumplab.github.io/programmingforpsych/), and gives some [concrete problems for you to solve](https://crumplab.github.io/programmingforpsych/programming-challenges-i-learning-the-fundamentals.html). 
-
-To get the hang of journaling and solving the problems to learn programming, my suggestion is that you use this .Rmd file to solve the problems. It would look like this:
-
-# Problem 1
-
-Do simple math with numbers, addition, subtraction, multiplication, division
-
-```{r}
-1+2
-2*5
-5/3
-(1+6+4)/5
-
-```
-
-# Problem 2
-
-Put numbers into variables, do simple math on the variables
-
-```{r}
-a<-1
-b<-2
-a+b
-
-d<-c(1,2,3)
-e<-c(5,6,7)
-d+e
-d*e
-d/e
-
-```
-
-# Problem 3
-
-Write code that will place the numbers 1 to 100 separately into a variable using for loop. Then, again using the seq function.
-
-```{r}
-# for loop solution
-# i becomes the number 1 to 100 at each step of the loop
-
-
-a <- length(100) # make empty variable, set length to 100
-for (i in 1:100){
-  a[i] <-i #assigns the number in i, to the ith index of a
-}
-
-print(a)
-
-# for loop solution #2
-
-a<-c() #create empty variable using combine command
-for (i in 1:100){
-  a<-c(a,i) # keeps combining a with itself and the new number in i
-}
-print(a)
-
-# seq solution
-a <- seq(1,100,1) # look up help for seq using ?seq() in console
-print(a)
-
-```
-
-# Replace this with problem 4
-
-And keep going. Try to solve the problems with different scripts that provide the same solution. Good luck, Happy coding.
