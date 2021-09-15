@@ -17,10 +17,9 @@ output: html_document
 <div class="row" style="padding-top: 20px;">
 <div class="col-sm-50">
 
-# **James P. Santiago, PhD**
+# **Welcome to the Plant Reproductive Physiology Lab!** 
 
-# Welcome to the Plant Reproductive Physiology Lab! 
-
+# James P. Santiago, PhD
 
 <div class="col-sm-5">
 ![](images/Model3.png)
