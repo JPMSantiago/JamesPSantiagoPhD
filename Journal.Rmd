@@ -2,8 +2,8 @@
 title: "Publications"
 output:
   html_document:
-    toc: true
-    toc_float: true
+    toc: false
+    toc_float: false
     collapsed: false
     number_sections: false
     toc_depth: 1

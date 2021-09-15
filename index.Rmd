@@ -21,12 +21,14 @@ output: html_document
 
 ### **Research**
 #### My overall research interest is understanding how plants adjust their carbon and nutrient (macro- and micro-) metabolism and nutrient allocation during high temperature stress conditions and how this influences their fertilization process and ultimately fruit and seed production.  
+<br>
 
 #### *Research program aims:*
 1) To understand how anthers adjust their carbon metabolism under high temperature stress
 2) To determine if and how macro- and micronutrient metabolism in anthers contribute to thermotolerance 
 3) To identify key players involved in anther thermotolerance using single-cell RNA-sequencing
 
+<br>
 
 <div class="col-sm-8">
 ![](images/Banner.png)
