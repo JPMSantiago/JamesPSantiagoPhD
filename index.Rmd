@@ -9,7 +9,7 @@ output: html_document
 }
 
 #getting-started img {
-  margin-right: 10px;
+  margin-right: 100px;
 }
 
 </style>
@@ -19,10 +19,16 @@ output: html_document
 
 # **Welcome to the Plant Reproductive Physiology Lab!** 
 
+### **Research**
+#### My overall research interest is to understand how plants adjust their carbon and nutrient (macro and micro) metabolism and acquisition, and nutrient allocation during high temperature stress conditions and how this influences their fertilization process and ultimately fruit and seed production.  
+#### Research program aims:
+1) To understand how anthers adjust their carbon metabolism under high temperature stress
+2) To determine if and how macro- and micronutrient metabolism in anthers contribute to thermotolerance 
+3) To identify key players involved in anther thermotolerance using single-cell RNA-sequencing
 
- -James P. Santiago, PhD
 
-<div class="col-sm-5">
-![](images/Model3.png)
+<div class="col-sm-4">
+![](images/Model3.png)  
+
 </a>
 </div>
