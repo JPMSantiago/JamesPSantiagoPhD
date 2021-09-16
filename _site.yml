@@ -10,4 +10,6 @@ navbar:
       href: Links.html
     - text: "Pictures"
       href: Pictures.html  
+    - text: "Grants submitted"
+      href: Grants.html
 output_dir: "docs"
