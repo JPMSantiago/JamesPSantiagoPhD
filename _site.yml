@@ -1,4 +1,4 @@
-name: "James' Site"
+name: "James P.M. Santiago, Ph.D."
 navbar:
   title: "James' Site"
   left:
@@ -8,4 +8,6 @@ navbar:
       href: Journal.html
     - text: "CV"
       href: Links.html
+    - text: "Pictures"
+      href: Blog.html  
 output_dir: "docs"
