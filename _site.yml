@@ -9,5 +9,5 @@ navbar:
     - text: "CV"
       href: Links.html
     - text: "Pictures"
-      href: Blog.html  
+      href: Pictures.html  
 output_dir: "docs"

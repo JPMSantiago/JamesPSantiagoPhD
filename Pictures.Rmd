@@ -1,0 +1,20 @@
+---
+title: "Pictures"
+author: "James Santiago"
+date: "9/16/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<div class="col-sm-3">
+![](images/Image2.jpg)
+
+![](images/Image7.jpg)
+
+![](images/PinPod.png)
+
+![](images/Tomato.jpg)
+
