@@ -1,7 +1,5 @@
 ---
 title: "Pictures"
-author: "James Santiago"
-date: "9/16/2021"
 output: html_document
 ---
 
@@ -11,10 +9,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div class="col-sm-3">
 ![](images/Image2.jpg)
+Bean flower
 
 ![](images/Image7.jpg)
+Bean pollen grains
 
 ![](images/PinPod.png)
+Bean pin-pods
 
 ![](images/Tomato.jpg)
+Tomato plants
 
