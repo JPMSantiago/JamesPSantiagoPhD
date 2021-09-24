@@ -1,5 +1,5 @@
 ---
-title: "Grants"
+title: "Grants submitted"
 output: html_document
 ---
 
@@ -7,7 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Grants submitted
 
 •	Grant: MSU-PRI competitive grant (Approved, $88,360; Michigan State University) – Single cell transcriptome and proteome dynamics under heat stress (2021-2022) <br>
 
