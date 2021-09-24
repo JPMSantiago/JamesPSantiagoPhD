@@ -1,6 +1,6 @@
 name: "James P.M. Santiago, Ph.D."
 navbar:
-  title: "James' Site"
+  title: "Home"
   left:
     - text: "Research"
       href: index.html
