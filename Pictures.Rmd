@@ -7,5 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+More coming soon!
+
 <div class="col-sm-10">
 ![](images/Collage.png)
