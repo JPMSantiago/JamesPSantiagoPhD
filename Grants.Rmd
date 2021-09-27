@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-•	Fellowship: MSU Postdoctoral Teaching Internship Program - BMB401: Comprehensive Biochemistry (January 2021-April 2021)
+•	MSU Postdoctoral Teaching Fellowship - BMB401: Comprehensive Biochemistry (January 2021-April 2021)
 
 •	Grant: MSU-PRI competitive grant (Approved, $88,360; Michigan State University) – Single cell transcriptome and proteome dynamics under heat stress (2021-2022) <br>
 
