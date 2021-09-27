@@ -1,5 +1,5 @@
 ---
-title: "Grants submitted"
+title: "Grants"
 output: html_document
 ---
 
