@@ -7,7 +7,7 @@ navbar:
     - text: "Publications"
       href: Journal.html
     - text: "CV"
-      href: Links.html
+      href: CV.html
     - text: "Pictures"
       href: Pictures.html  
     - text: "Grants"

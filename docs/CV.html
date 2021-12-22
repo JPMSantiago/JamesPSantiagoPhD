@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>CV</title>
+
+<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Home</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Research</a>
+</li>
+<li>
+  <a href="Journal.html">Publications</a>
+</li>
+<li>
+  <a href="Links.html">CV</a>
+</li>
+<li>
+  <a href="Pictures.html">Pictures</a>
+</li>
+<li>
+  <a href="Grants.html">Grants</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">CV</h1>
+
+</div>
+
+
+<div id="james-patrick-santiago-ph.d." class="section level1">
+<h1>James Patrick Santiago, Ph.D.</h1>
+<div id="education" class="section level3">
+<h3>Education</h3>
+<p>Ph.D. Molecular Plant Science (2017) - Washington State University <br> M.S. Horticulture (2011) - University of Maine <br> B.S. Agriculture (2008) - University of the Philippines at Los Baños</p>
+<p><br></p>
+</div>
+<div id="research-implementation" class="section level3">
+<h3>Research Implementation</h3>
+<p>Blueberry Fact Sheet No. 223 (2013) The University of Maine Cooperative Extension: Maine Wild Blueberries. UMaine Extension No. 2093 (<a href="https://extension.umaine.edu/blueberries/factsheets/production/interpreting-your-leaf-analysis-results/" class="uri">https://extension.umaine.edu/blueberries/factsheets/production/interpreting-your-leaf-analysis-results/</a>)</p>
+<p><br></p>
+</div>
+<div id="awards" class="section level3">
+<h3>Awards</h3>
+<p>• Best Poster Award – Western Section Meeting of American Society of Plant Biologists <br> • Janet Engle Cormier Soil Science Scholarship (University of Maine) <br> • Miroslaw M. Czapowskyj Scholarship (University of Maine) <br> • Award of Excellence – Northeastern Region American Society for Horticultural Science Graduate Student (NEASHS) Graduate Student Paper Presentation</p>
+<p><br></p>
+</div>
+<div id="undergraduate-mentoring" class="section level3">
+<h3>Undergraduate Mentoring</h3>
+<p>• Caleb Fisher (Michigan State University; August 2021-Present) <br> • Madeline Bresson (Michigan State University; Spring – Summer 2019) <br> – Won 1st place at the Michigan State University undergraduate research poster presentation competition. <br> – Current position: research technician at Baylor College of Medicine, Houston, TX <br> • Samantha Vivia Thé (Washington State University; Summer 2016) <br> – Current position: Plant Biology PhD student at Washington State University <br> • Jodie Kaya (WSU; Fall 2016) <br> – Current position: Research Specialist at University of Idaho <br> • Dolores Covarrubias (WSU; Summer 2015) <br> – Current position: Genomics Specialist at Fred Hutchinson Cancer Research Center, Seattle, WA <br> • Frances Sewell (University of Maine) <br> – Current position: Horticulturist at US Forest Services <br> • Russell Estes (University of Maine) <br> – Current position: Manager, Shaker Hill Outdoors, Poland Spring, ME <br> • Kalie Hess (University of Maine) <br> – Current position: Associate Director, Partnership for Children’s Oral Health, Augusta, ME <br> • Taylor Anderson (University of Maine) <br> – Current position: Unknown <br></p>
+<p><br></p>
+</div>
+<div id="courses-taughtassisted" class="section level3">
+<h3>Courses taught/Assisted</h3>
+<p>BMB401 – Comprehensive Biochemistry (Michigan State) <br> – Postdoctoral Teaching Fellowship <br> – Supervisors: Drs. Timothy Zacharewski, Jon Kaguni, Michael Feig <br> BIOLOGY102 Laboratory – Introduction to Biology for Non-Biology Majors (Wash. State) <br> – Fall semester 2016 (Teaching Assistant; Supervisor: Dr. Paul Verrell) <br> – Spring semester 2017 (Head Teaching Assistant; Supervisor: Dr. Lisa Carloye) <br> BIOLOGY101 – Assisted the lecturer with grades and other assigned duties (Wash. State) <br> – Fall 2017 (Supervisor: Dr. Kevin Turner) <br> BIOLOGY333 – Assisted the lecturer with grading student work and exam proctoring (Wash. State) <br> – Fall 2017 (Supervisor: Dr. Kathy Beerman) <br></p>
+<p><br></p>
+</div>
+<div id="professinal-internships" class="section level3">
+<h3>Professinal Internships</h3>
+<p>American Society of Plant Biologists (2014-present)</p>
+<p><br></p>
+</div>
+<div id="invited-presentations" class="section level3">
+<h3>Invited Presentations</h3>
+<p>2018 Institute of Crop Sciences Seminar Series <br> 2011 Maine Association of Professional Soil Scientists Annual Meeting <br></p>
+<p><br></p>
+</div>
+<div id="oral-presentations" class="section level3">
+<h3>Oral Presentations</h3>
+<p>2015 Washington State University-University of Idaho Center for Reproductive Biology Retreat <br> 2015 WSU Molecular Plant Sciences – Plant Science Retreat <br> 2011 ISAEMP 2011: Fifth International Symposium on Acclimatization and Establishment of Micropropagated Plants <br> 2011 Northeast Region American Society for Horticultural Sciences Meeting <br> 2010 North American Blueberry Research and Extension Workers Conference <br> 2010 North American Blueberry Research and Extension Workers Conference <br> 2010 Northeast Region American Society for Horticultural Sciences Meeting <br></p>
+<p><br></p>
+</div>
+<div id="presentations-at-agricultural-extension-meetings" class="section level3">
+<h3>Presentations at Agricultural Extension Meetings</h3>
+<p>2010 University of Maine - Blueberry Hill Farm field day <br> 2010 Spring Blueberry Growers’ Meeting <br> 2009 Wild Blueberry Researchers and Extension Workers Meeting <br></p>
+<p><br></p>
+</div>
+<div id="outreachservice-activities" class="section level3">
+<h3>Outreach/Service Activities</h3>
+<p>• MSU-DOE Plant Research Lab – Departmental Postdoc Representative (Aug. 2020-Aug. 2021) <br> • Fascination of Plants Day 2019 volunteer <br> • Molecular Plant Sciences – Plant Science Day 2017 volunteer <br> • Molecular Plant Sciences – Plant Science Day 2016 volunteer <br> • Molecular Plant Sciences Graduate Student Association (MPS-GSO) <br> – Secretary 2015-2016 <br> – Secretary 2014-2015 <br> • Journal ad hoc reviewer: <br> – Plant, Cell &amp; Environment <br> – Plant Direct <br> – PeerJ <br> – Grana <br> – MDPI: International Journal of Molecular Sciences <br> – MDPI: Genes <br> – MDPI: Agronomy <br> – MDPI: Horticulturae <br></p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
