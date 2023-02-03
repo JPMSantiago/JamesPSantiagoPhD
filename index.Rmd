@@ -17,21 +17,34 @@ output: html_document
 <div class="row" style="padding-top: 20px;">
 <div class="col-sm-50">
 
-# **Welcome to the Plant Reproductive Physiology Lab!** 
+# **James PM Santiago, Ph.D.** 
+
+<br>
 
 ### **Research**
-#### My overall research interest is understanding how plants adjust their carbon and nutrient (macro- and micro-) metabolism and nutrient allocation during high temperature stress conditions and how this influence their fertilization process and ultimately fruit and seed production.  
+My overall research interest is two-fold:
+1) Understand how plants adjust their carbon and nutrient metabolism and allocation during high temperature stress conditions. Further, I am interested in understanding how these influences their fertilization process and ultimately fruit and seed production.
+
+2) Explore and understand the molecular mechanisms of plant amino acid transporter regulation at the gene and protein levels by environmental factors. Currently, limited information is available regarding the relationship between amino acid transporters and the light signaling pathway. 
+
 <br>
 
 #### *Research program aims:*
-1) To understand how anthers adjust their carbon metabolism under high temperature stress
-2) To determine if and how macro- and micronutrient metabolism in anthers contribute to thermotolerance 
-3) To identify key players involved in anther thermotolerance using single-nuclei RNA-sequencing
+1) To understand how anthers adjust their carbon metabolism under high temperature stress to confer anther thermotolerance. 
+2) To determine if and how Nitrogen and Boron metabolism in anthers contribute to thermotolerance.
+3) Elucidate the main players of the plant light signaling pathway involved in regulating amino acid transporter gene expression.
+4) Identify key amino acid residues involved in plant amino acid transporter protein function.
+5) Identify mechanisms of amino acid transporter protein regulation in plants.
 
 <br>
 
 <div class="col-sm-8">
+
+</center>
+
 ![](images/Banner.png)
+
+</center>
 
 
 </a>
