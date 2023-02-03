@@ -14,19 +14,18 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-1.	Santiago JP and Smagula JM (2012) Comparison of split or single application of gypsum for wild lowbush blueberry (*Vaccinium angustifolium* Ait.). International Journal of Fruit Science 12: 35-47
-2.	Santiago JP and Smagula JM (2012) Gypsum rate evaluation for wild blueberry (*Vaccinium angustifolium* Ait.) soils. International Journal of Fruit Science 12:23-34
-3.	Santiago JP and Smagula JM (2013) Effects of nitrogen form and ratio on in vitro shoot multiplication and growth of lowbush blueberry (*Vaccinium angustifolium* Ait.). Acta Horticulturae 988: 129-135
-4.	Santiago JP, Dail DB, and Smagula JM (2014) Soil texture and lowbush blueberry (*Vaccinium angustifolium* Ait.) leaf nutrient concentration influences response to gypsum application. Acta Horticulturae 1017: 515-524
-5.	Santiago JP, Halteman W, and Smagula JM (2014) Determining optimum macro- and micronutrient leaf concentrations for lowbush blueberry (*Vaccinium angustifoliuim* Ait.) using the boundary line approach and quantile regression. Acta Horticulturae 1017: 505-514 
-6.	Santiago JP and Tegeder M (2016) Connecting source with sink: The role of Arabidopsis AAP8 in phloem loading of amino acids. Plant Physiology 171: 508-521 
-7.	Santiago JP and Tegeder M (2017) Implications of nitrogen phloem loading for carbon metabolism and transport during Arabidopsis development. Journal of Integrative Plant Biology 59: 409-421 
-8.	Santiago JP and Sharkey TD (2019) Pollen development at high temperature and role of carbon and nitrogen metabolites. Plant, Cell & Environment 42: 2759-2775
-9.	Santiago JP, Ward JM, and Sharkey TD (2020) *Phaseolus vulgaris* SUT1.1 is a high affinity sucrose-proton co-transporter. Plant Direct 4: e00260
-10.	Soltani A, Walter KA, Wiersma AT, **Santiago JP**, Quigley M, Chitwood D, Porch TG, Miklas P, McClean PE, Osorno JM, Lowry DB. (2021) Reduced seed dormancy in common bean is associated with an insertion in a pectin acetylesterase gene. BMC Plant Biology, 21: 1-17
-11.	Santiago JP, Soltani A, Bresson MB, Preiser AL, Lowry DB, Sharkey TD (2021) Contrasting anther glucose 6-phosphate dehydrogenase activities between two common bean (*Phaseolus vulgaris*) varieties suggest an important role in reproductive heat tolerance. Plant, Cell & Environment, 44: 2185-2199
-12. Soltani A, Walter KA, **Santiago JP**, Dutt M, Vincent C, Levy A (2021) The genetics and physiology of seed dormancy, a crucial trait in common bean domestication. BMC Plant Biology 21: 1-17
-13.	Welker S, Pierre M, **Santiago JP**, Dutt M, Vincent C, Levy A (2022) Phloem transport limitation in Huanglongbing affected sweet orange is dependent on phloem-limited bacteria and callose. Tree Physiology, 42:379-390 https://doi.org/10.1093/treephys/tpab134
+1.	**Santiago JP** and Smagula JM (2012) Comparison of split or single application of gypsum for wild lowbush blueberry (*Vaccinium angustifolium* Ait.). International Journal of Fruit Science 12: 35-47
+2.	**Santiago JP** and Smagula JM (2012) Gypsum rate evaluation for wild blueberry (*Vaccinium angustifolium* Ait.) soils. International Journal of Fruit Science 12:23-34
+3.	**Santiago JP** and Smagula JM (2013) Effects of nitrogen form and ratio on in vitro shoot multiplication and growth of lowbush blueberry (*Vaccinium angustifolium* Ait.). Acta Horticulturae 988: 129-135
+4.	**Santiago JP**, Dail DB, and Smagula JM (2014) Soil texture and lowbush blueberry (*Vaccinium angustifolium* Ait.) leaf nutrient concentration influences response to gypsum application. Acta Horticulturae 1017: 515-524
+5.	**Santiago JP**, Halteman W, and Smagula JM (2014) Determining optimum macro- and micronutrient leaf concentrations for lowbush blueberry (*Vaccinium angustifoliuim* Ait.) using the boundary line approach and quantile regression. Acta Horticulturae 1017: 505-514 
+6.	**Santiago JP** and Tegeder M (2016) Connecting source with sink: The role of Arabidopsis AAP8 in phloem loading of amino acids. Plant Physiology 171: 508-521 
+7.	**Santiago JP** and Tegeder M (2017) Implications of nitrogen phloem loading for carbon metabolism and transport during Arabidopsis development. Journal of Integrative Plant Biology 59: 409-421 
+8.	**Santiago JP** and Sharkey TD (2019) Pollen development at high temperature and role of carbon and nitrogen metabolites. Plant, Cell & Environment 42: 2759-2775
+9.	**Santiago JP**, Ward JM, and Sharkey TD (2020) *Phaseolus vulgaris* SUT1.1 is a high affinity sucrose-proton co-transporter. Plant Direct 4: e00260
+10.	Soltani A, Walter KA, Wiersma AT, **Santiago JP**, Quigley M, Chitwood D, Porch TG, Miklas P, McClean PE, Osorno JM, Lowry DB. (2021) The genetics and physiology of seed dormancy, a crucial trait in common bean domestication. BMC Plant Biology, 21: 1-17
+11.	**Santiago JP**, Soltani A, Bresson MB, Preiser AL, Lowry DB, Sharkey TD (2021) Contrasting anther glucose 6-phosphate dehydrogenase activities between two common bean (*Phaseolus vulgaris*) varieties suggest an important role in reproductive heat tolerance. Plant, Cell & Environment, 44: 2185-2199
+12.	Welker S, Pierre M, **Santiago JP**, Dutt M, Vincent C, Levy A (2022) Phloem transport limitation in Huanglongbing affected sweet orange is dependent on phloem-limited bacteria and callose. Tree Physiology, 42:379-390
 
 
 ![](images/Journals.png)

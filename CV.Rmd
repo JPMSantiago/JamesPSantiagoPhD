@@ -6,10 +6,9 @@ output: html_document
 # James Patrick Santiago, Ph.D.
 
 ### Education
+B.S. Agriculture (2008) - University of the Philippines at Los Baños
+<br>M.S. Horticulture (2011) - University of Maine <br>
 Ph.D. Molecular Plant Science (2017) - Washington State University <br>
-M.S. Horticulture (2011) - University of Maine <br>
-B.S. Agriculture (2008) - University of the Philippines at Los Baños  
-
 <br>
 
 ### Research Implementation
@@ -27,7 +26,7 @@ Blueberry Fact Sheet No. 223 (2013) The University of Maine Cooperative Extensio
 <br>
 
 ### Undergraduate Mentoring
-•	Caleb Fisher (Michigan State University; August 2021-Present) <br>
+•	Caleb Fisher (Michigan State University; August 2021-January 2022) <br>
 •	Madeline Bresson (Michigan State University; Spring – Summer 2019) <br>
 -- Won 1st place at the Michigan State University undergraduate research poster presentation competition. <br>
 --	Current position: research technician at Baylor College of Medicine, Houston, TX <br>
@@ -104,10 +103,6 @@ American Society of Plant Biologists (2014-present)
 --	Plant Direct  <br>
 --	PeerJ <br>
 --	Grana <br>
---	MDPI: International Journal of Molecular Sciences <br>
---	MDPI: Genes <br>
---	MDPI: Agronomy <br>
---	MDPI: Horticulturae <br>
 
 
 

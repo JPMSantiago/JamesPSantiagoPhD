@@ -13,8 +13,8 @@
 
 <title>CV</title>
 
-<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -137,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -170,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -179,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -232,7 +233,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -248,7 +249,7 @@ $(document).ready(function () {
   <a href="Journal.html">Publications</a>
 </li>
 <li>
-  <a href="Links.html">CV</a>
+  <a href="CV.html">CV</a>
 </li>
 <li>
   <a href="Pictures.html">Pictures</a>
@@ -277,27 +278,64 @@ $(document).ready(function () {
 <h1>James Patrick Santiago, Ph.D.</h1>
 <div id="education" class="section level3">
 <h3>Education</h3>
-<p>Ph.D. Molecular Plant Science (2017) - Washington State University <br> M.S. Horticulture (2011) - University of Maine <br> B.S. Agriculture (2008) - University of the Philippines at Los Baños</p>
-<p><br></p>
+<p>B.S. Agriculture (2008) - University of the Philippines at Los Baños
+<br>M.S. Horticulture (2011) - University of Maine <br> Ph.D. Molecular
+Plant Science (2017) - Washington State University <br> <br></p>
 </div>
 <div id="research-implementation" class="section level3">
 <h3>Research Implementation</h3>
-<p>Blueberry Fact Sheet No. 223 (2013) The University of Maine Cooperative Extension: Maine Wild Blueberries. UMaine Extension No. 2093 (<a href="https://extension.umaine.edu/blueberries/factsheets/production/interpreting-your-leaf-analysis-results/" class="uri">https://extension.umaine.edu/blueberries/factsheets/production/interpreting-your-leaf-analysis-results/</a>)</p>
+<p>Blueberry Fact Sheet No. 223 (2013) The University of Maine
+Cooperative Extension: Maine Wild Blueberries. UMaine Extension No. 2093
+(<a
+href="https://extension.umaine.edu/blueberries/factsheets/production/interpreting-your-leaf-analysis-results/"
+class="uri">https://extension.umaine.edu/blueberries/factsheets/production/interpreting-your-leaf-analysis-results/</a>)</p>
 <p><br></p>
 </div>
 <div id="awards" class="section level3">
 <h3>Awards</h3>
-<p>• Best Poster Award – Western Section Meeting of American Society of Plant Biologists <br> • Janet Engle Cormier Soil Science Scholarship (University of Maine) <br> • Miroslaw M. Czapowskyj Scholarship (University of Maine) <br> • Award of Excellence – Northeastern Region American Society for Horticultural Science Graduate Student (NEASHS) Graduate Student Paper Presentation</p>
+<p>• Best Poster Award – Western Section Meeting of American Society of
+Plant Biologists <br> • Janet Engle Cormier Soil Science Scholarship
+(University of Maine) <br> • Miroslaw M. Czapowskyj Scholarship
+(University of Maine) <br> • Award of Excellence – Northeastern Region
+American Society for Horticultural Science Graduate Student (NEASHS)
+Graduate Student Paper Presentation</p>
 <p><br></p>
 </div>
 <div id="undergraduate-mentoring" class="section level3">
 <h3>Undergraduate Mentoring</h3>
-<p>• Caleb Fisher (Michigan State University; August 2021-Present) <br> • Madeline Bresson (Michigan State University; Spring – Summer 2019) <br> – Won 1st place at the Michigan State University undergraduate research poster presentation competition. <br> – Current position: research technician at Baylor College of Medicine, Houston, TX <br> • Samantha Vivia Thé (Washington State University; Summer 2016) <br> – Current position: Plant Biology PhD student at Washington State University <br> • Jodie Kaya (WSU; Fall 2016) <br> – Current position: Research Specialist at University of Idaho <br> • Dolores Covarrubias (WSU; Summer 2015) <br> – Current position: Genomics Specialist at Fred Hutchinson Cancer Research Center, Seattle, WA <br> • Frances Sewell (University of Maine) <br> – Current position: Horticulturist at US Forest Services <br> • Russell Estes (University of Maine) <br> – Current position: Manager, Shaker Hill Outdoors, Poland Spring, ME <br> • Kalie Hess (University of Maine) <br> – Current position: Associate Director, Partnership for Children’s Oral Health, Augusta, ME <br> • Taylor Anderson (University of Maine) <br> – Current position: Unknown <br></p>
+<p>• Caleb Fisher (Michigan State University; August 2021-January 2022)
+<br> • Madeline Bresson (Michigan State University; Spring – Summer
+2019) <br> – Won 1st place at the Michigan State University
+undergraduate research poster presentation competition. <br> – Current
+position: research technician at Baylor College of Medicine, Houston, TX
+<br> • Samantha Vivia Thé (Washington State University; Summer 2016)
+<br> – Current position: Plant Biology PhD student at Washington State
+University <br> • Jodie Kaya (WSU; Fall 2016) <br> – Current position:
+Research Specialist at University of Idaho <br> • Dolores Covarrubias
+(WSU; Summer 2015) <br> – Current position: Genomics Specialist at Fred
+Hutchinson Cancer Research Center, Seattle, WA <br> • Frances Sewell
+(University of Maine) <br> – Current position: Horticulturist at US
+Forest Services <br> • Russell Estes (University of Maine) <br> –
+Current position: Manager, Shaker Hill Outdoors, Poland Spring, ME <br>
+• Kalie Hess (University of Maine) <br> – Current position: Associate
+Director, Partnership for Children’s Oral Health, Augusta, ME <br> •
+Taylor Anderson (University of Maine) <br> – Current position: Unknown
+<br></p>
 <p><br></p>
 </div>
 <div id="courses-taughtassisted" class="section level3">
 <h3>Courses taught/Assisted</h3>
-<p>BMB401 – Comprehensive Biochemistry (Michigan State) <br> – Postdoctoral Teaching Fellowship <br> – Supervisors: Drs. Timothy Zacharewski, Jon Kaguni, Michael Feig <br> BIOLOGY102 Laboratory – Introduction to Biology for Non-Biology Majors (Wash. State) <br> – Fall semester 2016 (Teaching Assistant; Supervisor: Dr. Paul Verrell) <br> – Spring semester 2017 (Head Teaching Assistant; Supervisor: Dr. Lisa Carloye) <br> BIOLOGY101 – Assisted the lecturer with grades and other assigned duties (Wash. State) <br> – Fall 2017 (Supervisor: Dr. Kevin Turner) <br> BIOLOGY333 – Assisted the lecturer with grading student work and exam proctoring (Wash. State) <br> – Fall 2017 (Supervisor: Dr. Kathy Beerman) <br></p>
+<p>BMB401 – Comprehensive Biochemistry (Michigan State) <br> –
+Postdoctoral Teaching Fellowship <br> – Supervisors: Drs. Timothy
+Zacharewski, Jon Kaguni, Michael Feig <br> BIOLOGY102 Laboratory –
+Introduction to Biology for Non-Biology Majors (Wash. State) <br> – Fall
+semester 2016 (Teaching Assistant; Supervisor: Dr. Paul Verrell) <br> –
+Spring semester 2017 (Head Teaching Assistant; Supervisor: Dr. Lisa
+Carloye) <br> BIOLOGY101 – Assisted the lecturer with grades and other
+assigned duties (Wash. State) <br> – Fall 2017 (Supervisor: Dr. Kevin
+Turner) <br> BIOLOGY333 – Assisted the lecturer with grading student
+work and exam proctoring (Wash. State) <br> – Fall 2017 (Supervisor:
+Dr. Kathy Beerman) <br></p>
 <p><br></p>
 </div>
 <div id="professinal-internships" class="section level3">
@@ -307,22 +345,41 @@ $(document).ready(function () {
 </div>
 <div id="invited-presentations" class="section level3">
 <h3>Invited Presentations</h3>
-<p>2018 Institute of Crop Sciences Seminar Series <br> 2011 Maine Association of Professional Soil Scientists Annual Meeting <br></p>
+<p>2018 Institute of Crop Sciences Seminar Series <br> 2011 Maine
+Association of Professional Soil Scientists Annual Meeting <br></p>
 <p><br></p>
 </div>
 <div id="oral-presentations" class="section level3">
 <h3>Oral Presentations</h3>
-<p>2015 Washington State University-University of Idaho Center for Reproductive Biology Retreat <br> 2015 WSU Molecular Plant Sciences – Plant Science Retreat <br> 2011 ISAEMP 2011: Fifth International Symposium on Acclimatization and Establishment of Micropropagated Plants <br> 2011 Northeast Region American Society for Horticultural Sciences Meeting <br> 2010 North American Blueberry Research and Extension Workers Conference <br> 2010 North American Blueberry Research and Extension Workers Conference <br> 2010 Northeast Region American Society for Horticultural Sciences Meeting <br></p>
+<p>2015 Washington State University-University of Idaho Center for
+Reproductive Biology Retreat <br> 2015 WSU Molecular Plant Sciences –
+Plant Science Retreat <br> 2011 ISAEMP 2011: Fifth International
+Symposium on Acclimatization and Establishment of Micropropagated Plants
+<br> 2011 Northeast Region American Society for Horticultural Sciences
+Meeting <br> 2010 North American Blueberry Research and Extension
+Workers Conference <br> 2010 North American Blueberry Research and
+Extension Workers Conference <br> 2010 Northeast Region American Society
+for Horticultural Sciences Meeting <br></p>
 <p><br></p>
 </div>
-<div id="presentations-at-agricultural-extension-meetings" class="section level3">
+<div id="presentations-at-agricultural-extension-meetings"
+class="section level3">
 <h3>Presentations at Agricultural Extension Meetings</h3>
-<p>2010 University of Maine - Blueberry Hill Farm field day <br> 2010 Spring Blueberry Growers’ Meeting <br> 2009 Wild Blueberry Researchers and Extension Workers Meeting <br></p>
+<p>2010 University of Maine - Blueberry Hill Farm field day <br> 2010
+Spring Blueberry Growers’ Meeting <br> 2009 Wild Blueberry Researchers
+and Extension Workers Meeting <br></p>
 <p><br></p>
 </div>
 <div id="outreachservice-activities" class="section level3">
 <h3>Outreach/Service Activities</h3>
-<p>• MSU-DOE Plant Research Lab – Departmental Postdoc Representative (Aug. 2020-Aug. 2021) <br> • Fascination of Plants Day 2019 volunteer <br> • Molecular Plant Sciences – Plant Science Day 2017 volunteer <br> • Molecular Plant Sciences – Plant Science Day 2016 volunteer <br> • Molecular Plant Sciences Graduate Student Association (MPS-GSO) <br> – Secretary 2015-2016 <br> – Secretary 2014-2015 <br> • Journal ad hoc reviewer: <br> – Plant, Cell &amp; Environment <br> – Plant Direct <br> – PeerJ <br> – Grana <br> – MDPI: International Journal of Molecular Sciences <br> – MDPI: Genes <br> – MDPI: Agronomy <br> – MDPI: Horticulturae <br></p>
+<p>• MSU-DOE Plant Research Lab – Departmental Postdoc Representative
+(Aug. 2020-Aug. 2021) <br> • Fascination of Plants Day 2019 volunteer
+<br> • Molecular Plant Sciences – Plant Science Day 2017 volunteer <br>
+• Molecular Plant Sciences – Plant Science Day 2016 volunteer <br> •
+Molecular Plant Sciences Graduate Student Association (MPS-GSO) <br> –
+Secretary 2015-2016 <br> – Secretary 2014-2015 <br> • Journal ad hoc
+reviewer: <br> – Plant, Cell &amp; Environment <br> – Plant Direct <br>
+– PeerJ <br> – Grana <br></p>
 </div>
 </div>
 

@@ -23,7 +23,8 @@ output: html_document
 
 ### **Research**
 My overall research interest is two-fold:
-1) Understand how plants adjust their carbon and nutrient metabolism and allocation during high temperature stress conditions. Further, I am interested in understanding how these influences their fertilization process and ultimately fruit and seed production.
+
+1) Understand how plants adjust their carbon and nutrient metabolism and allocation during high temperature stress conditions. Plant cells are in constant state of balancing act between primary metabolism and synthesis of cell-protective compounds that scavenge excess reactive oxygen radicals. During abiotic stress conditions, plant cells allocate more resources towards its protection at the expense of primary metabolism. Much of our knowledge regarding this had been elucidated in leaf cells but further studies are needed to determine how plant reproductive tissues, specifically the anthers, balance the two competing processes to ultimately be able to produce viable pollen grains.
 
 2) Explore and understand the molecular mechanisms of plant amino acid transporter regulation at the gene and protein levels by environmental factors. Currently, limited information is available regarding the relationship between amino acid transporters and the light signaling pathway. 
 

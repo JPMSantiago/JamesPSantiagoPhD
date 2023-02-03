@@ -13,8 +13,8 @@
 
 <title>James P.M. Santiago, Ph.D.</title>
 
-<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -137,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -170,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -179,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -232,7 +233,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -248,7 +249,7 @@ $(document).ready(function () {
   <a href="Journal.html">Publications</a>
 </li>
 <li>
-  <a href="Links.html">CV</a>
+  <a href="CV.html">CV</a>
 </li>
 <li>
   <a href="Pictures.html">Pictures</a>
@@ -286,24 +287,50 @@ $(document).ready(function () {
 <div class="row" style="padding-top: 20px;">
 <div class="col-sm-50">
 
-<div id="welcome-to-the-plant-reproductive-physiology-lab" class="section level1">
-<h1><strong>Welcome to the Plant Reproductive Physiology Lab!</strong></h1>
+<div id="james-pm-santiago-ph.d." class="section level1">
+<h1><strong>James PM Santiago, Ph.D.</strong></h1>
+<p><br></p>
 <div id="research" class="section level3">
 <h3><strong>Research</strong></h3>
-<div id="my-overall-research-interest-is-understanding-how-plants-adjust-their-carbon-and-nutrient-macro--and-micro--metabolism-and-nutrient-allocation-during-high-temperature-stress-conditions-and-how-this-influence-their-fertilization-process-and-ultimately-fruit-and-seed-production." class="section level4">
-<h4>My overall research interest is understanding how plants adjust their carbon and nutrient (macro- and micro-) metabolism and nutrient allocation during high temperature stress conditions and how this influence their fertilization process and ultimately fruit and seed production.</h4>
+<p>My overall research interest is two-fold:</p>
+<ol style="list-style-type: decimal">
+<li><p>Understand how plants adjust their carbon and nutrient metabolism
+and allocation during high temperature stress conditions. Plant cells
+are in constant state of balancing act between primary metabolism and
+synthesis of cell-protective compounds that scavenge excess reactive
+oxygen radicals. During abiotic stress conditions, plant cells allocate
+more resources towards its protection at the expense of primary
+metabolism. Much of our knowledge regarding this had been elucidated in
+leaf cells but further studies are needed to determine how plant
+reproductive tissues, specifically the anthers, balance the two
+competing processes to ultimately be able to produce viable pollen
+grains.</p></li>
+<li><p>Explore and understand the molecular mechanisms of plant amino
+acid transporter regulation at the gene and protein levels by
+environmental factors. Currently, limited information is available
+regarding the relationship between amino acid transporters and the light
+signaling pathway.</p></li>
+</ol>
 <p><br></p>
-</div>
 <div id="research-program-aims" class="section level4">
 <h4><em>Research program aims:</em></h4>
 <ol style="list-style-type: decimal">
-<li>To understand how anthers adjust their carbon metabolism under high temperature stress</li>
-<li>To determine if and how macro- and micronutrient metabolism in anthers contribute to thermotolerance</li>
-<li>To identify key players involved in anther thermotolerance using single-nuclei RNA-sequencing</li>
+<li>To understand how anthers adjust their carbon metabolism under high
+temperature stress to confer anther thermotolerance.</li>
+<li>To determine if and how Nitrogen and Boron metabolism in anthers
+contribute to thermotolerance.</li>
+<li>Elucidate the main players of the plant light signaling pathway
+involved in regulating amino acid transporter gene expression.</li>
+<li>Identify key amino acid residues involved in plant amino acid
+transporter protein function.</li>
+<li>Identify mechanisms of amino acid transporter protein regulation in
+plants.</li>
 </ol>
 <p><br></p>
 <div class="col-sm-8">
+</center>
 <p><img src="images/Banner.png" /></p>
+</center>
 <p></a></p>
 </div>
 </div>
