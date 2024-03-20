@@ -5,6 +5,12 @@ output: html_document
 
 # James Patrick Santiago, Ph.D.
 
+**Current Position:** 
+Senior Scientist, Soli Organic
+Harrisonburg, VA
+
+<br>
+
 ### Education
 B.S. Agriculture (2008) - University of the Philippines at Los Baños
 <br>M.S. Horticulture (2011) - University of Maine <br>
@@ -27,6 +33,7 @@ Blueberry Fact Sheet No. 223 (2013) The University of Maine Cooperative Extensio
 
 ### Undergraduate Mentoring
 •	Caleb Fisher (Michigan State University; August 2021-January 2022) <br>
+-- Current position: Biologican and Biomedial Sciences program graduate student at North Carolina State University <br>
 •	Madeline Bresson (Michigan State University; Spring – Summer 2019) <br>
 -- Won 1st place at the Michigan State University undergraduate research poster presentation competition. <br>
 --	Current position: research technician at Baylor College of Medicine, Houston, TX <br>
