@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 •	MSU Postdoctoral Teaching Fellowship - BMB401: Comprehensive Biochemistry (January 2021-April 2021)
 
-•	Grant: MSU-PRI competitive grant (Approved, $88,360; Michigan State University) – Single cell transcriptome and proteome dynamics under heat stress (2021-2022) <br>
+•	Grant: MSU-PRI competitive grant (Awarded, $88,360; Michigan State University) – Single cell transcriptome and proteome dynamics under heat stress (2021-2022) <br>
 
 •	Grant: USDA-NIFA-AFRI Dissecting the role of leaf assimilate export in anther ROS balance and its effect on male fertility of *Phaseolus vulgaris* during heat stress (2020; Wrote the proposal; Co-PI; Declined) <br>
 

@@ -5,11 +5,13 @@ navbar:
     - text: "Research"
       href: index.html
     - text: "Publications"
-      href: Journal.html
+      href: Publications.html
     - text: "CV"
       href: CV.html
     - text: "Pictures"
       href: Pictures.html  
     - text: "Grants"
       href: Grants.html
+    - text: "Collaborations"
+      href: Collabs.html
 output_dir: "docs"

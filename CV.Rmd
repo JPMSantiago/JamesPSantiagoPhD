@@ -18,8 +18,8 @@ Ph.D. Molecular Plant Science (2017) - Washington State University <br>
 <br>
 
 ### Research Implementation
-Blueberry Fact Sheet No. 223 (2013) The University of Maine Cooperative Extension: Maine Wild Blueberries. UMaine Extension No. 2093 (https://extension.umaine.edu/blueberries/factsheets/production/interpreting-your-leaf-analysis-results/)
-
+My leaf nutrient-berry yield modeling work from my MS thesis is now being used for blueberry fertilization decision-making. <br> 
+[Blueberry Fact Sheet No. 223 (2013)](https://extension.umaine.edu/blueberries/factsheets/production/interpreting-your-leaf-analysis-results/) The University of Maine Cooperative Extension: Maine Wild Blueberries. UMaine Extension No. 2093
 <br>
 
 

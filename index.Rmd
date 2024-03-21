@@ -24,9 +24,9 @@ output: html_document
 ### **Research**
 My overall research interest is two-fold:
 
-1) Understand how plants adjust their carbon and nutrient metabolism and allocation during high temperature stress conditions. Plant cells are in constant state of balancing act between primary metabolism and synthesis of cell-protective compounds that scavenge excess reactive oxygen radicals. During abiotic stress conditions, plant cells allocate more resources towards its protection at the expense of primary metabolism. Much of our knowledge regarding this had been elucidated in leaf cells but further studies are needed to determine how plant reproductive tissues, specifically the anthers, balance the two competing processes to ultimately be able to produce viable pollen grains.
+1) Understand how plants adjust their carbon and nutrient metabolism and allocation during high temperature stress conditions. Plant cells are in constant state of balancing act between primary metabolism and synthesis of cell-protective compounds that scavenge excess reactive oxygen species. During abiotic stress conditions, plant cells allocate more resources towards its protection at the expense of primary metabolism. Much of our knowledge regarding this had been elucidated in leaf cells but further studies are needed to determine how plant reproductive tissues, specifically the anthers, balance the two competing processes to ultimately be able to produce viable pollen grains.
 
-2) Explore and understand the molecular mechanisms of plant amino acid transporter regulation at the gene and protein levels by environmental factors. Currently, limited information is available regarding the relationship between amino acid transporters and the light signaling pathway. 
+2) Explore and understand the molecular mechanisms of plant amino acid transporter regulation by environmental factors at the gene and protein levels. While whole families of amino acid transporters have previously been identified and physiologically characterized, their regulation is still an area of further exploration and discovery. Currently, limited information is available regarding the relationship between amino acid transporters and the light signaling pathway.
 
 <br>
 
@@ -35,11 +35,12 @@ My overall research interest is two-fold:
 2) To determine if and how Nitrogen and Boron metabolism in anthers contribute to thermotolerance.
 3) Elucidate the main players of the plant light signaling pathway involved in regulating amino acid transporter gene expression.
 4) Identify key amino acid residues involved in plant amino acid transporter protein function.
-5) Identify mechanisms of amino acid transporter protein regulation in plants.
+5) Identify mechanisms of amino acid transporter protein regulation in plants and the role of environmental signals.
 
 <br>
 
 <div class="col-sm-8">
+
 
 </center>
 
