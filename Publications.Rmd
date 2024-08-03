@@ -14,7 +14,7 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-1. The SV, **Santiago JP**, Pappenberger C, Hammes UZ, Tegeder M (2023) UMAMIT44 is a key player in glutamate export from Arabidopsis chloroplasts. [The Plant Cell, koad310](https://academic.oup.com/plcell/advance-article-abstract/doi/10.1093/plcell/koad310/7471969)
+1. The SV, **Santiago JP**, Pappenberger C, Hammes UZ, Tegeder M (2024) UMAMIT44 is a key player in glutamate export from Arabidopsis chloroplasts. [The Plant Cell, 36:1119-1139](https://academic.oup.com/plcell/advance-article-abstract/doi/10.1093/plcell/koad310/7471969)
 
 2. Lucas M, **Santiago JP**, Chen J, Guber A, Kravchenko A (2023) The soil pore structure encountered by roots affects plant-derived carbon inputs and fate. [New Phytologist 240(2) 515-528](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19159)
 
