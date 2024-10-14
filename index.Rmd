@@ -14,34 +14,34 @@ output: html_document
 
 </style>
 
-<div class="row" style="padding-top: 20px;">
-<div class="col-sm-50">
-
-# **Welcome to the Horticultural Physiology Lab!** 
+# **Welcome to the Horticultural Physiology Lab**
 
 <br>
 
-### **Research**
-Our overall research interest is two-fold:
+### **Research** 
 
 **A) Reproductive physiology**. Understand how plants adjust their carbon and nutrient metabolism and allocation during high temperature stress conditions. Plant cells are in constant state of balancing act between primary metabolism and synthesis of cell-protective compounds that scavenge excess reactive oxygen species. During abiotic stress conditions, plant cells allocate more resources towards its protection at the expense of primary metabolism. Much of our knowledge regarding this had been elucidated in leaf cells but further studies are needed to determine how plant reproductive tissues, specifically the anthers, balance the two competing processes to ultimately be able to produce viable pollen grains for successful seed formation. Using omics technologies, specifically single cell genomics and proteomics, we are interested in dissecting carbon and nutrient metabolism in anther tapetal cells under elevated temperature conditions.
 
 ##### **Aims:**<br>
-1) To understand how anthers adjust their carbon metabolism under high temperature stress to confer anther thermotolerance. <br>
-2) To determine if and how macro- and micronutrient metabolism in anthers contribute to thermotolerance.
+
+1)  To understand how anthers adjust their carbon metabolism under high temperature stress to confer anther thermotolerance. <br>
+2)  To determine if and how macro- and micronutrient metabolism in anthers contribute to thermotolerance.
 
 <br>
 
 **B) Optimization of horticultural production practices**. Technological advances in lighting technology made indoor production possible. Light is a signal that plants use to regulate various processes in their cells. Using light, it is our aim to improve the nutritional content of indoor-grown leafy vegetables.
 
 ##### **Aims:** <br>
-1) Improve leaf nutritional content of indoor-grown leafy greens. <br>
-2) Identify light-regulated genes or pathways involved in increased accumulation of vitamins in leafy greens. <br>
+
+1)  Improve leaf nutritional content of indoor-grown leafy greens. <br>
+2)  Identify light-regulated genes or pathways involved in increased accumulation of vitamins in leafy greens. <br>
 
 <br>
 
 <br>
 
-<div style="text-align:center;">
+::: {style="text-align:center;"}
 ![](images/Banner2.png)
-</div>
+:::
+::::
+:::::

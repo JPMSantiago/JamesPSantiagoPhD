@@ -14,7 +14,7 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-![](images/Journals.png) 
+![](images/Journals.png)
 
 <br>
 
@@ -36,11 +36,11 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 #8. **Santiago JP** and Sharkey TD (2019) Pollen development at high temperature and role of carbon and nitrogen metabolites. [Plant, Cell & Environment 42: 2759-2775](https://onlinelibrary.wiley.com/doi/full/10.1111/pce.13576)
 
-#7. **Santiago JP** and Tegeder M (2017) Implications of nitrogen phloem loading for carbon metabolism and transport during Arabidopsis development. Journal of Integrative [Plant Biology 59: 409-421](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.12533) 
+#7. **Santiago JP** and Tegeder M (2017) Implications of nitrogen phloem loading for carbon metabolism and transport during Arabidopsis development. Journal of Integrative [Plant Biology 59: 409-421](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.12533)
 
-#6. **Santiago JP** and Tegeder M (2016) Connecting source with sink: The role of Arabidopsis AAP8 in phloem loading of amino acids. [Plant Physiology 171: 508-521](https://academic.oup.com/plphys/article/171/1/508/6114970) 
+#6. **Santiago JP** and Tegeder M (2016) Connecting source with sink: The role of Arabidopsis AAP8 in phloem loading of amino acids. [Plant Physiology 171: 508-521](https://academic.oup.com/plphys/article/171/1/508/6114970)
 
-#5. **Santiago JP**, Halteman W, and Smagula JM (2014) Determining optimum macro- and micronutrient leaf concentrations for lowbush blueberry (*Vaccinium angustifoliuim* Ait.) using the boundary line approach and quantile regression. [Acta Horticulturae 1017: 505-514](https://www.actahort.org/books/1017/1017_63.htm) 
+#5. **Santiago JP**, Halteman W, and Smagula JM (2014) Determining optimum macro- and micronutrient leaf concentrations for lowbush blueberry (*Vaccinium angustifoliuim* Ait.) using the boundary line approach and quantile regression. [Acta Horticulturae 1017: 505-514](https://www.actahort.org/books/1017/1017_63.htm)
 
 #4. **Santiago JP**, Dail DB, and Smagula JM (2014) Soil texture and lowbush blueberry (*Vaccinium angustifolium* Ait.) leaf nutrient concentration influences response to gypsum application. [Acta Horticulturae 1017: 515-524](https://www.actahort.org/books/1017/1017_64.htm)
 
@@ -51,8 +51,3 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 #1. **Santiago JP** and Smagula JM (2012) Comparison of split or single application of gypsum for wild lowbush blueberry (*Vaccinium angustifolium* Ait.). [International Journal of Fruit Science 12: 35-47](https://www.tandfonline.com/doi/full/10.1080/15538362.2011.619122)
 
 <br>
-
-
-
-
-
