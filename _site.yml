@@ -11,7 +11,7 @@ navbar:
     - text: "CV"
       href: CV.html
     - text: "Pictures"
-      href: Pictures.html  
+      href: Pictures.html
     - text: "Grants"
       href: Grants.html
     - text: "Collaborations"
