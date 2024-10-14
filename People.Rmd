@@ -7,9 +7,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### **James Santiago**
+### **James**
 
-Assistant Professor <br> 
+Assistant Professor in Horticulture <br> 
 Email: [santjpm\@gmail.com](mailto:santjpm@gmail.com){.email} <br> 
 
 ![](images/JPSantiago.jpg){width="2in"}
