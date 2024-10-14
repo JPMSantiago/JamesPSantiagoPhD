@@ -17,43 +17,31 @@ output: html_document
 <div class="row" style="padding-top: 20px;">
 <div class="col-sm-50">
 
-# **James PM Santiago, Ph.D.** 
+# **Welcome to the Horticultural Physiology Lab!** 
 
 <br>
 
 ### **Research**
-My overall research interest is two-fold:
+Our overall research interest is two-fold:
 
-1) **Reproductive physiology**. Understand how plants adjust their carbon and nutrient metabolism and allocation during high temperature stress conditions. Plant cells are in constant state of balancing act between primary metabolism and synthesis of cell-protective compounds that scavenge excess reactive oxygen species. During abiotic stress conditions, plant cells allocate more resources towards its protection at the expense of primary metabolism. Much of our knowledge regarding this had been elucidated in leaf cells but further studies are needed to determine how plant reproductive tissues, specifically the anthers, balance the two competing processes to ultimately be able to produce viable pollen grains for successful seed formation. Using omics technologies, specifically single cell genomics and proteomics, I am interested in dissecting carbon and nutrient (Nitrogen (amino acids), Boron) metabolism in anther tapetal cells under elevated temperature conditions.
+**A) Reproductive physiology**. Understand how plants adjust their carbon and nutrient metabolism and allocation during high temperature stress conditions. Plant cells are in constant state of balancing act between primary metabolism and synthesis of cell-protective compounds that scavenge excess reactive oxygen species. During abiotic stress conditions, plant cells allocate more resources towards its protection at the expense of primary metabolism. Much of our knowledge regarding this had been elucidated in leaf cells but further studies are needed to determine how plant reproductive tissues, specifically the anthers, balance the two competing processes to ultimately be able to produce viable pollen grains for successful seed formation. Using omics technologies, specifically single cell genomics and proteomics, we are interested in dissecting carbon and nutrient metabolism in anther tapetal cells under elevated temperature conditions.
 
-
-2) **Transporter regulation**. Previous studies have shown that plant amino acid transporter proteins are essential for allocation of amino acids throughout the plant and have implications in plant growth and seed nitrogen and protein content. Further, amino acid transporter protein function is highly regulated by the environment (i.e. light, temperature).I am interested in exploring and understanding the molecular mechanisms of plant amino acid transporter regulation by environmental factors at the gene and protein levels. While whole families of amino acid transporters have previously been identified and physiologically characterized, their regulation is still an area of further exploration and discovery. Currently, limited information is available regarding the relationship between amino acid transporters and the light signaling pathway.
-
-
-<br>
-
-#### *Research program aims:*
-**Reproductive physiology:**<br>
+##### **Aims:**<br>
 1) To understand how anthers adjust their carbon metabolism under high temperature stress to confer anther thermotolerance. <br>
-2) To determine if and how Nitrogen and Boron metabolism in anthers contribute to thermotolerance.
-
-**Amino acid transporter regulation** <br>
-1) Elucidate the main players of the plant light signaling pathway involved in regulating amino acid transporter gene expression. <br>
-2) Identify key amino acid residues involved in plant amino acid transporter protein function. <br>
-3) Identify mechanisms of amino acid transporter protein regulation in plants and the role of environmental signals. <br>
-
+2) To determine if and how macro- and micronutrient metabolism in anthers contribute to thermotolerance.
 
 <br>
 
-<div class="col-sm-8">
+**B) Optimization of horticultural production practices**. Technological advances in lighting technology made indoor production possible. Light is a signal that plants use to regulate various processes in their cells. Using light, it is our aim to improve the nutritional content of indoor-grown leafy vegetables.
 
+##### **Aims:** <br>
+1) Improve leaf nutritional content of indoor-grown leafy greens. <br>
+2) Identify light-regulated genes or pathways involved in increased accumulation of vitamins in leafy greens. <br>
 
-</center>
+<br>
 
-![](images/Banner.png)
+<br>
 
-</center>
-
-
-</a>
+<div style="text-align:center;">
+![](images/Banner2.png)
 </div>

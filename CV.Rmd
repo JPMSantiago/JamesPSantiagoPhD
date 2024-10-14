@@ -5,9 +5,10 @@ output: html_document
 
 # James Patrick Santiago, Ph.D.
 
-**Current Position:** 
-Senior Scientist, Soli Organic
-Harrisonburg, VA
+### Employment
+2025-Present: Assistant Professor of Horticulture, University of Illinois at Urbana-Champaign<br>
+2023-2025: Senior Scientist/R&D Plant Physiologist, Soli Organic, Harrisonburg, VA<br>
+2022-2023: Scientist/R&D Plant Physiologist, Soli Organic, Harrisonburg, VA<br>
 
 <br>
 
@@ -22,8 +23,8 @@ B.S. Agriculture - University of the Philippines at Los Baños <br>
 ### Research Implementation
 My leaf nutrient-berry yield modeling work from my MS thesis is now being used for blueberry fertilization decision-making. <br> 
 [Blueberry Fact Sheet No. 223 (2013)](https://extension.umaine.edu/blueberries/factsheets/production/interpreting-your-leaf-analysis-results/) The University of Maine Cooperative Extension: Maine Wild Blueberries. UMaine Extension No. 2093
-<br>
 
+<br>
 
 ### Awards
 •	Best Poster Award – Western Section Meeting of American Society of Plant Biologists <br>
@@ -76,8 +77,9 @@ American Society of Plant Biologists (2014-present)
 <br>
 
 ### Invited Presentations
-2022  James Madison University Biology Department Seminar Series <br>
-2018	Institute of Crop Sciences Seminar Series <br>
+2024  Michigan State University, Plant Resilience Institute Seminar Series <br>
+2022  James Madison University, Biology Department Seminar Series <br>
+2018	University of the Philippines, Institute of Crop Sciences Seminar Series <br>
 2011	Maine Association of Professional Soil Scientists Annual Meeting <br>
 
 <br>
