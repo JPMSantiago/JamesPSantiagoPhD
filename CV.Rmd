@@ -1,138 +1,119 @@
 ---
-title: "CV"
+title: " "
 output: html_document
 editor_options: 
   markdown: 
-    wrap: 72
+    wrap: 100
 ---
 
 # James Patrick Santiago, Ph.D.
 
 ### Employment
 
-2025-Present: Assistant Professor of Horticulture, University of
-Illinois at Urbana-Champaign<br> 2023-2025: Senior Scientist/R&D Plant
-Physiologist, Soli Organic, Harrisonburg, VA<br> 2022-2023:
+2025-Present: Assistant Professor of Horticulture, University of Illinois at Urbana-Champaign<br>
+2023-2025: Senior Scientist/R&D Plant Physiologist, Soli Organic, Harrisonburg, VA<br> 2022-2023:
 Scientist/R&D Plant Physiologist, Soli Organic, Harrisonburg, VA<br>
 
 <br>
 
 ### Education
 
-Postdoc - Michigan State University (Mentor: Tom Sharkey)<br> Ph.D.
-Molecular Plant Science - Washington State University <br> M.S.
-Horticulture - University of Maine <br> B.S. Agriculture - University of
-the Philippines at Los Baños <br>
+Postdoc - Michigan State University (Mentor: Tom Sharkey)<br> Ph.D. Molecular Plant Science -
+Washington State University <br> M.S. Horticulture - University of Maine <br> B.S. Agriculture -
+University of the Philippines at Los Baños <br>
 
 <br>
 
 ### Research Implementation
 
-My leaf nutrient-berry yield modeling work from my MS thesis is now
-being used for blueberry fertilization decision-making. <br> [Blueberry
-Fact Sheet No. 223
+My leaf nutrient-berry yield modeling work from my MS thesis is now being used for blueberry
+fertilization decision-making. <br> [Blueberry Fact Sheet No. 223
 (2013)](https://extension.umaine.edu/blueberries/factsheets/production/interpreting-your-leaf-analysis-results/)
-The University of Maine Cooperative Extension: Maine Wild Blueberries.
-UMaine Extension No. 2093
+The University of Maine Cooperative Extension: Maine Wild Blueberries. UMaine Extension No. 2093
 
 <br>
 
-### Awards
+### Awards and Scholarships
 
-• Best Poster Award – Western Section Meeting of American Society of
-Plant Biologists <br> • Janet Engle Cormier Soil Science Scholarship
-(University of Maine) <br> • Miroslaw M. Czapowskyj Scholarship
-(University of Maine) <br> • Award of Excellence – Northeastern Region
-American Society for Horticultural Science Graduate Student (NEASHS)
-Graduate Student Paper Presentation
+• Best Poster Award – Western Section Meeting of American Society of Plant Biologists <br> • Janet
+Engle Cormier Soil Science Scholarship (University of Maine) <br> • Miroslaw M. Czapowskyj
+Scholarship (University of Maine) <br> • Award of Excellence – Northeastern Region American Society
+for Horticultural Science Graduate Student (NEASHS) Graduate Student Paper Presentation
 
 <br>
 
 ### Undergraduate Mentoring
 
-• Caleb Fisher (Michigan State University; August 2021-January 2022)
-<br> -- Current position: Biologican and Biomedial Sciences program
-graduate student at North Carolina State University <br> • Madeline
-Bresson (Michigan State University; Spring – Summer 2019) <br> -- Won
-1st place at the Michigan State University undergraduate research poster
-presentation competition. <br> -- Current position: research technician
-at Baylor College of Medicine, Houston, TX <br> • Samantha Vivia Thé
-(Washington State University; Summer 2016) <br> -- Current position:
-Plant Biology PhD student at Washington State University <br> • Jodie
-Kaya (WSU; Fall 2016) <br> -- Current position: Research Specialist at
-University of Idaho <br> • Dolores Covarrubias (WSU; Summer 2015) <br>
--- Current position: Genomics Specialist at Fred Hutchinson Cancer
-Research Center, Seattle, WA <br> • Frances Sewell (University of Maine)
-<br> -- Current position: Horticulturist at US Forest Services <br> •
-Russell Estes (University of Maine) <br> -- Current position: Manager,
-Shaker Hill Outdoors, Poland Spring, ME <br> • Kalie Hess (University of
-Maine) <br> -- Current position: Associate Director, Partnership for
-Children’s Oral Health, Augusta, ME <br> • Taylor Anderson (University
-of Maine) <br> -- Current position: Unknown <br>
+• Caleb Fisher (Michigan State University; August 2021-January 2022) <br> -- Current position:
+Biologican and Biomedial Sciences program graduate student at North Carolina State University <br> •
+Madeline Bresson (Michigan State University; Spring – Summer 2019) <br> -- Won 1st place at the
+Michigan State University undergraduate research poster presentation competition. <br> -- Current
+position: research technician at Baylor College of Medicine, Houston, TX <br> • Samantha Vivia Thé
+(Washington State University; Summer 2016) <br> -- Current position: Plant Biology PhD student at
+Washington State University <br> • Jodie Kaya (WSU; Fall 2016) <br> -- Current position: Research
+Specialist at University of Idaho <br> • Dolores Covarrubias (WSU; Summer 2015) <br> -- Current
+position: Genomics Specialist at Fred Hutchinson Cancer Research Center, Seattle, WA <br> • Frances
+Sewell (University of Maine) <br> -- Current position: Horticulturist at US Forest Services <br> •
+Russell Estes (University of Maine) <br> -- Current position: Manager, Shaker Hill Outdoors, Poland
+Spring, ME <br> • Kalie Hess (University of Maine) <br> -- Current position: Associate Director,
+Partnership for Children’s Oral Health, Augusta, ME <br> • Taylor Anderson (University of Maine)
+<br> -- Current position: Unknown <br>
 
 <br>
 
 ### Courses taught/Assisted
 
-BMB401 – Comprehensive Biochemistry (Michigan State) <br> --
-Postdoctoral Teaching Fellowship <br> -- Supervisors: Drs. Timothy
-Zacharewski, Jon Kaguni, Michael Feig <br> BIOLOGY102 Laboratory –
-Introduction to Biology for Non-Biology Majors (Wash. State) <br> --
-Fall semester 2016 (Teaching Assistant; Supervisor: Dr. Paul Verrell)
-<br> -- Spring semester 2017 (Head Teaching Assistant; Supervisor: Dr.
-Lisa Carloye) <br> BIOLOGY101 – Assisted the lecturer with grades and
-other assigned duties (Wash. State) <br> -- Fall 2017 (Supervisor: Dr.
-Kevin Turner) <br> BIOLOGY333 – Assisted the lecturer with grading
-student work and exam proctoring (Wash. State) <br> -- Fall 2017
-(Supervisor: Dr. Kathy Beerman) <br>
+BMB401 – Comprehensive Biochemistry (Michigan State) <br> -- Postdoctoral Teaching Fellowship <br>
+-- Supervisors: Drs. Timothy Zacharewski, Jon Kaguni, Michael Feig <br> BIOLOGY102 Laboratory –
+Introduction to Biology for Non-Biology Majors (Wash. State) <br> -- Fall semester 2016 (Teaching
+Assistant; Supervisor: Dr. Paul Verrell) <br> -- Spring semester 2017 (Head Teaching Assistant;
+Supervisor: Dr. Lisa Carloye) <br> BIOLOGY101 – Assisted the lecturer with grades and other assigned
+duties (Wash. State) <br> -- Fall 2017 (Supervisor: Dr. Kevin Turner) <br> BIOLOGY333 – Assisted the
+lecturer with grading student work and exam proctoring (Wash. State) <br> -- Fall 2017 (Supervisor:
+Dr. Kathy Beerman) <br>
 
 <br>
 
 ### Professional Memberships
 
-American Society of Plant Biologists (2014-present)
+American Society of Plant Biologists
+
+American Society for Horticultural Sciences
 
 <br>
 
 ### Invited Presentations
 
-2024 Michigan State University, Plant Resilience Institute Seminar
-Series <br> 2022 James Madison University, Biology Department Seminar
-Series <br> 2018 University of the Philippines, Institute of Crop
-Sciences Seminar Series <br> 2011 Maine Association of Professional Soil
-Scientists Annual Meeting <br>
+2024 Michigan State University, Plant Resilience Institute Seminar Series <br> 2022 James Madison
+University, Biology Department Seminar Series <br> 2018 University of the Philippines, Institute of
+Crop Sciences Seminar Series <br> 2011 Maine Association of Professional Soil Scientists Annual
+Meeting <br>
 
 <br>
 
 ### Oral Presentations
 
-2015 Washington State University-University of Idaho Center for
-Reproductive Biology Retreat <br> 2015 WSU Molecular Plant Sciences –
-Plant Science Retreat <br> 2011 ISAEMP 2011: Fifth International
-Symposium on Acclimatization and Establishment of Micropropagated Plants
-<br> 2011 Northeast Region American Society for Horticultural Sciences
-Meeting <br> 2010 North American Blueberry Research and Extension
-Workers Conference <br> 2010 North American Blueberry Research and
-Extension Workers Conference <br> 2010 Northeast Region American Society
-for Horticultural Sciences Meeting <br>
+2015 Washington State University-University of Idaho Center for Reproductive Biology Retreat <br>
+2015 WSU Molecular Plant Sciences – Plant Science Retreat <br> 2011 ISAEMP 2011: Fifth International
+Symposium on Acclimatization and Establishment of Micropropagated Plants <br> 2011 Northeast Region
+American Society for Horticultural Sciences Meeting <br> 2010 North American Blueberry Research and
+Extension Workers Conference <br> 2010 North American Blueberry Research and Extension Workers
+Conference <br> 2010 Northeast Region American Society for Horticultural Sciences Meeting <br>
 
 <br>
 
 ### Presentations at Agricultural Extension Meetings
 
-2010 University of Maine - Blueberry Hill Farm field day <br> 2010
-Spring Blueberry Growers’ Meeting <br> 2009 Wild Blueberry Researchers
-and Extension Workers Meeting <br>
+2010 University of Maine - Blueberry Hill Farm field day <br> 2010 Spring Blueberry Growers’ Meeting
+<br> 2009 Wild Blueberry Researchers and Extension Workers Meeting <br>
 
 <br>
 
 ### Outreach/Service Activities
 
-• MSU-DOE Plant Research Lab – Departmental Postdoc Representative (Aug.
-2020-Aug. 2021) <br> • Fascination of Plants Day 2019 volunteer <br> •
-Molecular Plant Sciences – Plant Science Day 2017 volunteer <br> •
-Molecular Plant Sciences – Plant Science Day 2016 volunteer <br> •
-Molecular Plant Sciences Graduate Student Association (MPS-GSO) <br> --
-Secretary 2015-2016 <br> -- Secretary 2014-2015 <br> • Journal ad hoc
-reviewer: <br> -- Plant, Cell & Environment <br> -- Plant Direct <br> --
-PeerJ <br> -- Grana <br> -- Planta <br>
+• MSU-DOE Plant Research Lab – Departmental Postdoc Representative (Aug. 2020-Aug. 2021) <br> •
+Fascination of Plants Day 2019 volunteer <br> • Molecular Plant Sciences – Plant Science Day 2017
+volunteer <br> • Molecular Plant Sciences – Plant Science Day 2016 volunteer <br> • Molecular Plant
+Sciences Graduate Student Association (MPS-GSO) <br> -- Secretary 2015-2016 <br> -- Secretary
+2014-2015 <br> • Journal ad hoc reviewer: <br> -- Plant, Cell & Environment <br> -- Plant Direct
+<br> -- PeerJ <br> -- Grana <br> -- Planta <br>

@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "Publications"
       href: Publications.html
+    - text: "People"
+      href: People.html
     - text: "CV"
       href: CV.html
     - text: "Pictures"
