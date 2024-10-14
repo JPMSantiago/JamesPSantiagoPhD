@@ -7,10 +7,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### James Santiago
+### **James Santiago**
 
 Team leader
 
+![](images/JPSantiago.jpg){width="2in"}
+
 <br>
 
-### You?
+### **You?**
+
+```{r, fig.align='center'}
+```
+
+![](images/Uncle Sam.png){width="2in"}
