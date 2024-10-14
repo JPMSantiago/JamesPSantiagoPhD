@@ -9,15 +9,23 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **James Santiago**
 
-Team leader
+Assistant Professor <br> 
+Email: [santjpm\@gmail.com](mailto:santjpm@gmail.com){.email} <br> 
 
 ![](images/JPSantiago.jpg){width="2in"}
 
 <br>
 
 ### **You?**
+::: {style="text-align:left;"}
+![](images/UncleSam.png){width="2in"}
+:::
 
-```{r, fig.align='center'}
-```
 
-![](images/Uncle Sam.png){width="2in"}
+<br>
+
+
+
+### **Employment Opportunities**
+
+I am looking for a Masters level graduate student. Please contact James if you are interested.
