@@ -43,7 +43,7 @@ output: html_document
 <br>
 
 
-Ultimately, the end goal of the Horticultural Physiology Lab is to identify mechanisms that will allow the development of nutrient dense climate-resilient horticultural crop cultivars.
+Ultimately, the end goal of the Horticultural Physiology Lab is to identify biochemical and physiological mechanisms that will allow the development of nutrient dense climate-resilient horticultural crop cultivars.
 
 <br>
 
