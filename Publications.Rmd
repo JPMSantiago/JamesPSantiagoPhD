@@ -18,7 +18,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 <br>
 
-16\. Prado K, Holland BL, Gardener BM, Lundquist P, **Santiago JP**, VanBuren R, Rhee SY (In preparation) Enhancing crop resilience against drought and heat stress through an integrated field-to-lab-to-field research paradigm. Journal of Experimental Botany, Darwin Review
+16\. Prado K, Holland BL, Gardener BM, Lundquist P, **Santiago JP**, VanBuren R, Rhee SY (Submitted) Enhancing crop resilience against drought and heat stress through an integrated field-to-lab-to-field research paradigm. Journal of Experimental Botany, Darwin Review
 
 15\. Walters J, Fisher R, Sharkey TD, Isaacs R, **Santiago JP** (In preparation) Extreme heat affects blueberry pollen nutrition: consequences for bee health and plant fertilization. Scientific Reports
 
