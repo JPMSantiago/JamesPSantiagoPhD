@@ -27,23 +27,21 @@ output: html_document
 **A) Reproductive physiology**. Understand how plants adjust their carbon and nutrient metabolism and allocation during high temperature stress conditions. Plant cells are in constant state of balancing act between primary metabolism and synthesis of cell-protective compounds that scavenge excess reactive oxygen species. During abiotic stress conditions, plant cells allocate more resources towards its protection at the expense of primary metabolism. Much of our knowledge regarding this had been elucidated in leaf cells but further studies are needed to determine how plant reproductive tissues, specifically the anthers, balance the two competing processes to ultimately be able to produce viable pollen grains for successful seed formation. Using omics technologies, we are interested in dissecting carbon and nutrient metabolism in anther tapetal cells under elevated temperature conditions.
 
 ##### **Aims:**<br>
-
 1)  To understand how anthers adjust their carbon metabolism under high temperature stress to confer anther thermotolerance. <br>
 2)  To determine if and how macro- and micronutrient metabolism in anthers contribute to thermotolerance.
 
 <br>
 
-**B) Optimization of horticultural production practices**. Recent technological advances in LED lighting made indoor horticultural production feasible. Light is a signal that plants use to regulate various cellular processes. Preliminary studies revealed the importance of light intensity and quality on the accumulation of vitamins in spinach. Using light, it is our goal to improve the nutritional content of indoor-grown leafy vegetables to combat nutritional deficiencies especially in developing nations.
+**B) Optimization of horticultural production practices**. Recent technological advances in LED lighting made indoor horticultural production feasible. Light is a signal that plants use to regulate various cellular processes. Preliminary studies revealed the importance of light intensity and quality on the accumulation of vitamins in spinach. Using light, it is our goal to improve the nutritional content of indoor-grown leafy vegetables to help combat nutritional deficiencies especially in developing nations.
 
 ##### **Aims:** <br>
-
 1)  Improve leaf nutritional content of indoor-grown leafy greens. <br>
 2)  Identify th emolecular controls of light-regulated genes or pathways involved in increased accumulation of vitamins in leafy greens. <br>
 
 <br>
 
 
-Ultimately, the end goal of the Horticultural Physiology Lab is to identify biochemical and physiological mechanisms that will allow the development of nutrient dense climate-resilient horticultural crop cultivars.
+Ultimately, the end goal of the Horticultural Physiology Lab is to identify biochemical and physiological mechanisms that will allow the development of nutrient dense and climate-resilient horticultural crop cultivars.
 
 <br>
 

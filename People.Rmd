@@ -8,8 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ### **James**
-Dr. James Santiago is an Assistant Professor of Horticulture at the University of Illinois in the Department of Crop Sciences. Originally from the Philippines, James moved across the Pacific Ocean to pursue higher education in the United States where he received a Master in Science in Horticulture at the University of Maine and a Doctorate in Molecular Plant Sciences at Washington State University. He then trained as a postdoctoral fellow under Tom Sharkey at Michigan State University. Prior to becoming a professor, James had a brief stint in the industry working as R&D Plant Physiologist at a vertical farming company in Virginia. <br> 
-Email: [santjpm\@gmail.com](mailto:santjpm@gmail.com){.email} <br>
+Dr. James Santiago is an Assistant Professor of Horticulture at the University of Illinois in the Department of Crop Sciences. Originally from the Philippines, James moved across the Pacific Ocean to pursue higher education in the United States where he received an MS in Horticulture at the University of Maine and a Doctorate in Molecular Plant Sciences at Washington State University. He then trained as a postdoctoral fellow under Tom Sharkey at Michigan State University. Prior to becoming a professor, James had a brief stint in the industry working as R&D Plant Physiologist at a vertical farming company in Virginia. James enjoys watching jump scare horror movies, reading horror books, hiking, and has dabbled in painting. <br> 
+Email: [santjpm\@gmail.com](mailto:santjpm@gmail.com){.email} <br> 
 
 ::: {style="text-align:left;"}
 ![](images/JPSantiago.jpg){width="2in"}
